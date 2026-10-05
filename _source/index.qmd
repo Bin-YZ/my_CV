@@ -1,0 +1,56 @@
+---
+title: "Bin Xi"
+subtitle: "Postdoctoral Researcher · Paul Scherrer Institute (PSI)"
+pagetitle: "Bin Xi"
+about:
+  template: jolla
+  image: img/profile.jpg
+  image-shape: round
+  image-width: 13em
+---
+
+<div class="hero-links">
+<a href="mailto:bin.xi@psi.ch"><i class="bi bi-envelope"></i> Email</a>
+<a href="https://scholar.google.com.hk/citations?user=9k0KQtoAAAAJ&hl=en"><i class="bi bi-google"></i> Scholar</a>
+<a href="https://www.linkedin.com/in/bin-xi-845126198/"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<a href="papers/Bin_Xi_CV.pdf"><i class="bi bi-file-earmark-pdf"></i> CV</a>
+</div>
+
+## About
+
+I am a postdoctoral researcher in the [Laboratory for Waste Management (LES)](https://www.psi.ch/en/les) at the [Paul Scherrer Institute](https://www.psi.ch/en), Switzerland. My work brings together thermodynamic modelling, reactive-transport simulation and machine learning to design low-carbon cementitious materials and to understand how cement-based barriers evolve in radioactive-waste repositories.
+
+I obtained my Ph.D. from Politecnico di Milano, where I studied the self-healing and long-term durability of ultra-high performance concrete. Before that, I trained in civil engineering at Shenzhen University and Yunnan Agricultural University.
+
+## Latest news
+
+<ul class="news">
+<li><span class="news-date">May 2026</span><span>Talk on machine learning-assisted low-carbon cement design at the ETH Net Zero Day, ETH Zurich.</span></li>
+<li><span class="news-date">2026</span><span>New paper with M. Davolio and L. Ferrara on tensile constitutive law identification for UHPC in <em>Materials and Structures</em>.</span></li>
+<li><span class="news-date">Oct 2025</span><span>Invited talk at the Global CementAI Virtual Seminar 2025 (Global Cement Magazine).</span></li>
+<li><span class="news-date">Sep 2025</span><span>Visiting Scholar at Hiroshima University, Japan.</span></li>
+<li><span class="news-date">2025</span><span>Our work on machine learning-accelerated green cement design in <em>Materials and Structures</em> received <a href="https://www.linkedin.com/feed/update/urn:li:share:7341001446038908931/">international media coverage</a>.</span></li>
+<li><span class="news-date">2025</span><span>Co-authored paper on the environmental burden of building on the Moon in <em>Nature Astronomy</em>.</span></li>
+<li><span class="news-date">Jul 2024</span><span>Joined the Laboratory for Waste Management at PSI as Postdoctoral Researcher.</span></li>
+<li><span class="news-date">Apr 2024</span><span>Completed my Ph.D. at Politecnico di Milano.</span></li>
+<li><span class="news-date">Feb 2024</span><span>Presented my Ph.D. work at <a href="https://www.youtube.com/watch?v=-aVcs7i1EV4">PhDTalks</a> (video available on the <a href="research/index.qmd#talks-and-videos">Research</a> page).</span></li>
+</ul>
+
+## Selected publications
+
+<ul class="pubs">
+<li>R. Boiger, <strong>B. Xi</strong>, G.-D. Miron, M. Bonvin, J.L. Provis, S.V. Churakov, N.I. Prasianakis. <span class="pub-title">Machine learning-accelerated discovery of green cement recipes.</span> <span class="pub-venue">Materials and Structures</span>, 2025.</li>
+<li>N. Zhang, H. Li, <strong>B. Xi</strong>, J. Fan, H. Duan. <span class="pub-title">The environmental burden of building on the Moon.</span> <span class="pub-venue">Nature Astronomy</span> 9 (2025) 1412–1414.</li>
+<li>N. Zhang, G. Schiller, H. Azarijafari, Z. Cao, <strong>B. Xi</strong>, et al. <span class="pub-title">Contribution of concrete nitrogenation to global NOx uptake.</span> <span class="pub-venue">Nature Cities</span>, 2024.</li>
+<li><strong>B. Xi</strong>, Z. Huang, S. Al-Obaidi, L. Ferrara. <span class="pub-title">Healing capacity of Ultra High Performance Concrete under sustained load through crack tensile stresses and aggressive environments.</span> <span class="pub-venue">Cement and Concrete Composites</span>, 2023.</li>
+</ul>
+
+[All publications →](publications/index.qmd)
+
+## Contact
+
+**Office:** Paul Scherrer Institute (PSI), Forschungsstrasse 111, 5232 Villigen, Switzerland.<br>
+**Email:** [bin.xi@psi.ch](mailto:bin.xi@psi.ch)
+
+<div class="map-wrap"><iframe src="https://maps.google.com/maps?q=Paul%20Scherrer%20Institut%2C%20Forschungsstrasse%20111%2C%205232%20Villigen&z=14&output=embed" title="Map of the Paul Scherrer Institute" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
+

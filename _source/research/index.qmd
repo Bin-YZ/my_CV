@@ -1,0 +1,36 @@
+---
+title: "Research"
+---
+
+My research sits at the interface of cement chemistry, transport modelling and data science. The goal is to make cementitious materials both lower in carbon and more predictable over very long service lives.
+
+## Themes
+
+<div class="card-grid">
+<div class="rcard"><i class="bi bi-recycle"></i><span class="card-title">Low-carbon cement design</span><p>Coupling GEMS thermodynamic modelling, machine learning and carbon accounting to search for greener cement recipes with multi-objective optimisation.</p></div>
+<div class="rcard"><i class="bi bi-shield-check"></i><span class="card-title">Repository barriers</span><p>Degradation, diffusion and reactive transport across cement–bentonite–host-rock interfaces for radioactive-waste disposal.</p></div>
+<div class="rcard"><i class="bi bi-bandaid"></i><span class="card-title">Self-healing UHPC/UHDC</span><p>Healing capacity and durability of ultra-high performance concrete under aggressive environments, sustained loads and cracking/healing cycles.</p></div>
+<div class="rcard"><i class="bi bi-cpu"></i><span class="card-title">Data-driven materials modelling</span><p>Hybrid machine-learning and metaheuristic models, FEniCSx/FEM, HPC workflows and X-ray CT image analysis.</p></div>
+</div>
+
+## Projects
+
+<div class="card-grid">
+<div class="rcard"><span class="card-title"><a href="https://www.ejp-eurad.eu/">EURAD-2 · SUDOKU</a></span><p>Near-Surface Disposal Optimization based on Knowledge and Understanding. HTO diffusion experiments, XCT-based pore-scale models and reactive-transport modelling of cementitious barriers.</p><span class="tag">2024–present</span><span class="tag">Researcher / Task contributor</span></div>
+<div class="rcard"><span class="card-title"><a href="https://www.ejp-eurad.eu/">EURAD-2 · OPTI</a></span><p>Optimisation of Repository Support Structures. Machine-learning models of carbonation and strength with NSGA-II optimisation of tunnel-lining concrete mixes.</p><span class="tag">2025–present</span><span class="tag">Researcher / Task contributor</span></div>
+<div class="rcard"><span class="card-title"><a href="https://www.scene-project.ch/">SCENE</a></span><p>Swiss Center of Excellence on Net Zero Emissions. Simulation-driven low-carbon cement design integrating GEMS, machine learning, carbon accounting and multi-objective optimisation.</p><span class="tag">2024–2026</span><span class="tag">Researcher</span></div>
+<div class="rcard"><span class="card-title"><a href="https://uhdc.eu/">ReSHEALience (EU H2020)</a></span><p>Ultra High Durability Concrete. Durability, self-healing and mechanical recovery of UHDC/UHPC in severe environments.</p><span class="tag">2020–2024</span><span class="tag">Ph.D. Researcher</span></div>
+</div>
+
+## Talks and videos
+
+Short presentations of my Ph.D. work on the self-healing and durability of ultra-high performance concrete.
+
+<div class="card-grid">
+<div class="rcard"><div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/-aVcs7i1EV4" title="PhDTalks 06/02/2024 - Bin Xi" loading="lazy" allowfullscreen></iframe></div><span class="card-title"><a href="https://www.youtube.com/watch?v=-aVcs7i1EV4">PhDTalks 06/02/2024 – Bin Xi</a></span><p>Ph.D. talk presenting my doctoral research.</p><span class="tag">Feb 2024</span><span class="tag">Video</span></div>
+<div class="rcard"><div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/Kpg7IOxvf2w" title="Perwoll: Für Kleidung wie NEU!" loading="lazy" allowfullscreen></iframe></div><span class="card-title"><a href="https://www.youtube.com/watch?v=Kpg7IOxvf2w">Perwoll: Für Kleidung wie NEU!</a></span><p>Video featuring my Ph.D. work.</p><span class="tag">Video</span></div>
+</div>
+
+## In the media
+
+Our study *Machine learning-accelerated discovery of green cement recipes* was featured after a press release by the Paul Scherrer Institute, with coverage in Switzerland, Germany, Austria, Italy, the United Kingdom and the United States, including the Swiss Federal Government (admin.ch), idw and Yahoo News. [See the coverage →](https://www.linkedin.com/feed/update/urn:li:share:7341001446038908931/)

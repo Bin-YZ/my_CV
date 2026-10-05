@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n2020–2024\nPh.D., Structural, Seismic and Geotechnical Engineering, Politecnico di Milano, Italy. Supervisors: Prof. Liberato Ferrara, Prof. Marco di Prisco.\n\n\n2017–2020\nM.Sc., Civil Engineering, Shenzhen University, China. Supervisor: Prof. Yingwu Zhou.\n\n\n2013–2017\nB.Eng., Civil Engineering, Yunnan Agricultural University, China."
+  },
+  {
+    "objectID": "cv/index.html#experience",
+    "href": "cv/index.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\n2024–present\nPostdoctoral Researcher, Laboratory for Waste Management, Paul Scherrer Institute, Switzerland.\n\n\nSep 2025\nVisiting Scholar, Hiroshima University, Japan.\n\n\n2020–2024\nPh.D. Researcher, Politecnico di Milano, Italy (EU H2020 ReSHEALience).\n\n\nJun–Oct 2020\nResearch Assistant, Shenzhen University, China.\n\n\n2018–2019\nTeaching Assistant, Concrete Structures, Shenzhen University, China."
+  },
+  {
+    "objectID": "cv/index.html#editorial-work-and-service",
+    "href": "cv/index.html#editorial-work-and-service",
+    "title": "Curriculum Vitae",
+    "section": "Editorial work and service",
+    "text": "Editorial work and service\n\nEditorial boards\nJournal of the Mechanical Behavior of Materials (De Gruyter Brill); ZKG International – Cement, Lime, Gypsum (Young Editorial Board).\n\n\nGuest editor\nRIMNI: Machine Learning-Driven Net-Zero Design and Performance Optimization of Sustainable Cementitious Materials · Buildings: Machine Learning-Driven Modeling and Optimization in Structural Engineering · Urban Science: Practices in Urban Circular Economy Transition.\n\n\nReviewer\nCement and Concrete Research, Cement and Concrete Composites, Construction and Building Materials, Materials and Structures, Journal of Materials in Civil Engineering (ASCE), KSCE Journal of Civil Engineering, Journal of Cleaner Production."
+  },
+  {
+    "objectID": "cv/index.html#honours",
+    "href": "cv/index.html#honours",
+    "title": "Curriculum Vitae",
+    "section": "Honours",
+    "text": "Honours\n\n2019\nNational Scholarship for Graduate Students, Ministry of Education of China; First-Class Graduate Scholarship, Shenzhen University.\n\n\n2018\nFirst-Class Graduate Scholarship, Shenzhen University.\n\n\n2017\nSpecial-Class Scholarship, Shenzhen University; Outstanding Undergraduate Thesis Award and Outstanding Graduate Award, Yunnan Agricultural University."
+  },
+  {
+    "objectID": "cv/index.html#skills",
+    "href": "cv/index.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nModelling\nGEMS thermodynamic modelling, diffusion and reactive transport, FEniCSx/FEM, inverse modelling, HPC workflows.\n\n\nData & lab\nPython (scikit-learn), machine learning and multi-objective optimisation, X-ray CT and 3D segmentation, diffusion experiments.\n\n\nLanguages\nChinese (native), English (professional working proficiency), Italian (beginner)."
+  },
+  {
+    "objectID": "cv/index.html#contact",
+    "href": "cv/index.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\n\nOffice\nPaul Scherrer Institute (PSI), Forschungsstrasse 111, 5232 Villigen, Switzerland.\n\n\nEmail\nbin.xi@psi.ch"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the interface of cement chemistry, transport modelling and data science. The goal is to make cementitious materials both lower in carbon and more predictable over very long service lives."
+  },
+  {
+    "objectID": "research/index.html#themes",
+    "href": "research/index.html#themes",
+    "title": "Research",
+    "section": "Themes",
+    "text": "Themes\n\n\nLow-carbon cement design\n\nCoupling GEMS thermodynamic modelling, machine learning and carbon accounting to search for greener cement recipes with multi-objective optimisation.\n\n\n\nRepository barriers\n\nDegradation, diffusion and reactive transport across cement–bentonite–host-rock interfaces for radioactive-waste disposal.\n\n\n\nSelf-healing UHPC/UHDC\n\nHealing capacity and durability of ultra-high performance concrete under aggressive environments, sustained loads and cracking/healing cycles.\n\n\n\nData-driven materials modelling\n\nHybrid machine-learning and metaheuristic models, FEniCSx/FEM, HPC workflows and X-ray CT image analysis."
+  },
+  {
+    "objectID": "research/index.html#projects",
+    "href": "research/index.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\n\nEURAD-2 · SUDOKU\n\nNear-Surface Disposal Optimization based on Knowledge and Understanding. HTO diffusion experiments, XCT-based pore-scale models and reactive-transport modelling of cementitious barriers.\n\n2024–presentResearcher / Task contributor\n\n\nEURAD-2 · OPTI\n\nOptimisation of Repository Support Structures. Machine-learning models of carbonation and strength with NSGA-II optimisation of tunnel-lining concrete mixes.\n\n2025–presentResearcher / Task contributor\n\n\nSCENE\n\nSwiss Center of Excellence on Net Zero Emissions. Simulation-driven low-carbon cement design integrating GEMS, machine learning, carbon accounting and multi-objective optimisation.\n\n2024–2026Researcher\n\n\nReSHEALience (EU H2020)\n\nUltra High Durability Concrete. Durability, self-healing and mechanical recovery of UHDC/UHPC in severe environments.\n\n2020–2024Ph.D. Researcher"
+  },
+  {
+    "objectID": "research/index.html#talks-and-videos",
+    "href": "research/index.html#talks-and-videos",
+    "title": "Research",
+    "section": "Talks and videos",
+    "text": "Talks and videos\nShort presentations of my Ph.D. work on the self-healing and durability of ultra-high performance concrete.\n\n\n\n\n\n\nPhDTalks 06/02/2024 – Bin Xi\n\nPh.D. talk presenting my doctoral research.\n\nFeb 2024Video\n\n\n\n\n\n\nPerwoll: Für Kleidung wie NEU!\n\nVideo featuring my Ph.D. work.\n\nVideo"
+  },
+  {
+    "objectID": "research/index.html#in-the-media",
+    "href": "research/index.html#in-the-media",
+    "title": "Research",
+    "section": "In the media",
+    "text": "In the media\nOur study Machine learning-accelerated discovery of green cement recipes was featured after a press release by the Paul Scherrer Institute, with coverage in Switzerland, Germany, Austria, Italy, the United Kingdom and the United States, including the Swiss Federal Government (admin.ch), idw and Yahoo News. See the coverage →"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "An up-to-date list is also available on Google Scholar. * corresponding author."
+  },
+  {
+    "objectID": "publications/index.html#journal-articles",
+    "href": "publications/index.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n2026\n\n\nWei Huang, Jintao He, Yuxin Jin, Hao Chen, Kai Zhou, Bin Xi, Feng Zhu, Dong Lei. DIC and X-CT investigation of damage characterization and microstructural degradation in the concrete interfacial transition zone after elevated temperature exposure. Structures, 92, 112771.\n\nBin Xi, Ning Zhang, Jintao He, et al. Thermodynamics-informed C–S–H gel densification descriptor for concrete creep prediction: A physics-informed hybrid framework. Construction and Building Materials, 538, 147048.\n\nMatteo Davolio, Bin Xi, Liberato Ferrara. Tensile constitutive law identification for ultra-high-performance concrete: interchangeability of test methods. Materials and Structures, 59(1), 40.\n\nJintao He, Zhen Gao, Yu Xiang, Jie Chen, Guang Yang, Bin Xi, Dong Lei, Hongwei Zhao. Microscale fracture analysis of concrete interfacial transition zone based on digital image correlation. Engineering Fracture Mechanics, 112000.\n\nJintao He, Zhen Gao, Hang Yin, Guang Yang, Yu Xiang, Bin Xi, Dong Lei, Hongwei Zhao. Fluorescent digital image correlation for characterizing interfacial transition zone in fly ash-modified concrete. Journal of Building Engineering, 116319.\n\n\n2025\n\n\nNing Zhang, Huan Li, Bin Xi, Jing Fan, Huabo Duan. The environmental burden of building on the Moon. Nature Astronomy, 9(10), 1412–1414.\n\nYingui Qiu, Enming Li, Pablo Segarra, Bin Xi, Jian Zhou. Developing hybrid XGBoost model to predict the strength of polypropylene and straw fibers reinforced cemented paste backfill and interpretability insights. Computer Modeling in Engineering & Sciences.\n\nM. H. Riaz, Yingwu Zhou, Menghuan Guo, Bin Xi, S. Xiang. Development of LC3-ECC incorporating recycled fine aggregate: a novel sustainable and ductile material. Case Studies in Construction Materials.\n\nLang Pang, Bin Xi, Xiaoyan Wei, Dengquan Wang. Utilizing electric furnace ferronickel slag as a supplementary cementitious material: Hydration and Cr leaching risk. Construction and Building Materials.\n\nRomana Boiger, Bin Xi, George-Dan Miron, Matthias Bonvin, John L. Provis, Sergey V. Churakov, Nikolaos I. Prasianakis. Machine learning-accelerated discovery of green cement recipes. Materials and Structures.\n\n\n2024\n\n\nNing Zhang, Georg Schiller, Hessam Azarijafari, Zhi Cao, Bin Xi, et al. Contribution of concrete nitrogenation to global NOx uptake. Nature Cities.\n\nBin Xi, Liberato Ferrara. Evolution of self-healing performance of UHPC exposed to aggressive environments and cracking/healing cycles. Materials and Structures, 57(2), 36.\n\nEnming Li, Ning Zhang, Bin Xi*, Zhi Yu, Yewuhalashet Fissha, et al. Analysis and modelling of gas relative permeability in reservoir by hybrid KELM methods. Earth Science Informatics, 17(4), 3163–3190.\n\n\n2023\n\n\nBin Xi, Zhewen Huang, Salam Al-Obaidi, Liberato Ferrara. Healing capacity of Ultra High Performance Concrete under sustained load through crack tensile stresses and aggressive environments. Cement and Concrete Composites.\n\nBin Xi, Salam Al-Obaidi, Liberato Ferrara. Effect of different environments on the self-healing performance of Ultra High-Performance Concrete – A systematic literature review. Construction and Building Materials.\n\nBin Xi, Zhewen Huang, Salam Al-Obaidi, Liberato Ferrara. Predicting ultra high-performance concrete self-healing performance using hybrid models based on metaheuristic optimization techniques. Construction and Building Materials.\n\nBin Xi, Ning Zhang, Huabo Duan, et al. Optimization of rice husk ash concrete design towards economic and environmental assessment. Environmental Impact Assessment Review.\n\nBin Xi, Enming Li, Yewuhalashet Fissha, Jian Zhou, et al. LGBM-based modelling scenarios for compressive strength of recycled aggregate concrete with SHAP analysis. Mechanics of Advanced Materials and Structures.\n\nBin Xi, Ning Zhang, et al. A comprehensive comparison of different regression techniques and nature-inspired optimization algorithms to predict carbonation depth of recycled aggregate concrete. Frontiers of Structural and Civil Engineering.\n\nBin Xi, Jintao He, Huaguan Li. Integration of machine learning models and metaheuristic algorithms for predicting compressive strength of waste granite powder concrete. Materials Today Communications.\n\nEnming Li, Ning Zhang, Bin Xi*, Vivian W. Y. Tam, Jiajia Wang, Jian Zhou. Intelligent prediction of engineered cementitious composites with limestone calcined clay cement (LC3-ECC) compressive strength based on novel machine learning techniques. Computers and Concrete.\n\nEnming Li, Ning Zhang, Bin Xi*, Jian Zhou, Xiaofeng Gao. Compressive strength prediction and optimization design of sustainable concrete based on squirrel search algorithm-extreme gradient boosting technique. Frontiers of Structural and Civil Engineering.\n\nYingwu Zhou, Guoqiang Gong, Bin Xi, Menghuan Guo, Feng Xing, Cheng Chen. Sustainable lightweight engineered cementitious composites using limestone calcined clay cement (LC3). Composites Part B: Engineering.\n\nJintao He, Dong Lei, Zesheng She, Bin Xi. Flexural performance and damage evaluation on basalt fiber reinforced polymer (BFRP) sheet reinforced concrete. Construction and Building Materials.\n\nJintao He, Dong Lei, Zesheng She, Bin Xi. Investigation on bonding behavior of basalt fiber reinforced polymer (BFRP) sheet reinforced concrete beam. Journal of Building Engineering.\n\nEnming Li, Bin Xi, Ning Zhang, Xiuzhi Shi, Jian Zhou, Pablo Segarra, Haibo Wang. Circular use of fine-grained tailings to underground mine wind walls. Circular Economy.\n\n\n2022\n\n\nNing Zhang, Bin Xi, Jiabin Li, Lei Liu, Guanghan Song. Utilization of CO2 into recycled construction materials: A systematic literature review. Journal of Material Cycles and Waste Management.\n\n\n2021\n\n\nYingwu Zhou, Shuyue Zheng, Xiaoxu Huang, Bin Xi, Zhenyu Huang, Menghuan Guo. Performance enhancement of green high-ductility engineered cementitious composites by nano-silica incorporation. Construction and Building Materials.\n\n\n2020\n\n\nBin Xi, Yingwu Zhou, Kequan Yu, Lili Sui, Biao Hu, Feng Xing. Use of nano-SiO2 to develop a high performance green lightweight engineering cementitious composite containing fly ash cenospheres. Journal of Cleaner Production.\n\n\n2019\n\n\nYingwu Zhou, Bin Xi, Lili Sui, Shuyue Zheng, Feng Xing, Li Li. Development of high strain-hardening lightweight engineered cementitious composites: Design and performance. Cement and Concrete Composites.\n\n\n2018\n\n\nYingwu Zhou, Bin Xi, Kequan Yu, Lili Sui, Feng Xing. Mechanical properties of hybrid ultra-high performance engineered cementitious composites incorporating steel and polyethylene fibers. Materials.\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#conference-presentations",
+    "href": "publications/index.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n\n2026\n\n\nBin Xi, et al. Machine learning-assisted low-carbon cement design: A path to lower CO₂ emissions and enhanced carbon sequestration. ETH Net Zero Day, ETH Zurich, Zurich, Switzerland, 7 May 2026.\n\n\n2025\n\n\nBin Xi. Machine learning-accelerated discovery of green cement recipes. Global CementAI Virtual Seminar 2025, Global Cement Magazine, Online, 7 October 2025 (Invited presentation).\n\nBin Xi, et al. Machine learning assisted low-carbon cement design: A path to lower CO2 emission and enhanced carbon sequestration. In proceedings of Conference on Durability of Infrastructures, Mendrisio, Switzerland, 22-28 March 2025.\n\n\n2023\n\n\nBin Xi, et al. Influence of self-healing property of Ultra-High Performance Concrete under aggressive environment. In proceedings of SMARTINCS'23 Conference on Self-Healing, Multifunctional and Advanced Repair Technologies in Cementitious Systems, Ghent, Belgium.\n\n\n2022\n\n\nBin Xi, et al. Evolution of performance of self-healing in UHPC under aggressive exposure environments. In proceedings of 8th International Conference on Self Healing Materials (ICSHM), Milan, Italy.\n\nBin Xi, et al. Investigation of self-healing property of UHPC with sustained loads under aggressive exposure environments. In proceedings of 14th PhD Symposium in Civil Engineering, Rome, Italy.\n\n\n2019\n\n\nBin Xi, Yingwu Zhou, Lili Sui, Pengda Li, Chen Chen, Biao Hu. Development of high strain hardening lightweight engineering cementitious composites. In proceedings of 7th Asia-Pacific Conference on FRP in Structures (APFIS 2019), Gold Coast, Australia.\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bin Xi",
+    "section": "",
+    "text": "Email  Scholar  LinkedIn  CV"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Bin Xi",
+    "section": "About",
+    "text": "About\nI am a postdoctoral researcher in the Laboratory for Waste Management (LES) at the Paul Scherrer Institute, Switzerland. My work brings together thermodynamic modelling, reactive-transport simulation and machine learning to design low-carbon cementitious materials and to understand how cement-based barriers evolve in radioactive-waste repositories.\nI obtained my Ph.D. from Politecnico di Milano, where I studied the self-healing and long-term durability of ultra-high performance concrete. Before that, I trained in civil engineering at Shenzhen University and Yunnan Agricultural University."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Bin Xi",
+    "section": "Latest news",
+    "text": "Latest news\n\n\nMay 2026Talk on machine learning-assisted low-carbon cement design at the ETH Net Zero Day, ETH Zurich.\n\n\n2026New paper with M. Davolio and L. Ferrara on tensile constitutive law identification for UHPC in Materials and Structures.\n\n\nOct 2025Invited talk at the Global CementAI Virtual Seminar 2025 (Global Cement Magazine).\n\n\nSep 2025Visiting Scholar at Hiroshima University, Japan.\n\n\n2025Our work on machine learning-accelerated green cement design in Materials and Structures received international media coverage.\n\n\n2025Co-authored paper on the environmental burden of building on the Moon in Nature Astronomy.\n\n\nJul 2024Joined the Laboratory for Waste Management at PSI as Postdoctoral Researcher.\n\n\nApr 2024Completed my Ph.D. at Politecnico di Milano.\n\n\nFeb 2024Presented my Ph.D. work at PhDTalks (video available on the Research page)."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Bin Xi",
+    "section": "Selected publications",
+    "text": "Selected publications\n\n\nR. Boiger, B. Xi, G.-D. Miron, M. Bonvin, J.L. Provis, S.V. Churakov, N.I. Prasianakis. Machine learning-accelerated discovery of green cement recipes. Materials and Structures, 2025.\n\n\nN. Zhang, H. Li, B. Xi, J. Fan, H. Duan. The environmental burden of building on the Moon. Nature Astronomy 9 (2025) 1412–1414.\n\n\nN. Zhang, G. Schiller, H. Azarijafari, Z. Cao, B. Xi, et al. Contribution of concrete nitrogenation to global NOx uptake. Nature Cities, 2024.\n\n\nB. Xi, Z. Huang, S. Al-Obaidi, L. Ferrara. Healing capacity of Ultra High Performance Concrete under sustained load through crack tensile stresses and aggressive environments. Cement and Concrete Composites, 2023.\n\n\nAll publications →"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Bin Xi",
+    "section": "Contact",
+    "text": "Contact\nOffice: Paul Scherrer Institute (PSI), Forschungsstrasse 111, 5232 Villigen, Switzerland. Email: bin.xi@psi.ch"
+  }
+]
